@@ -1,0 +1,14 @@
+C:\Users\gahx3\Desktop\CSharpCodes\Estudo\Desafios\ListaDeItensRPG\obj\Debug\net8.0\ListaDeItensRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gahx3\Desktop\CSharpCodes\Estudo\Desafios\ListaDeItensRPG\obj\Debug\net8.0\ListaDeItensRPG.AssemblyInfoInputs.cache
+C:\Users\gahx3\Desktop\CSharpCodes\Estudo\Desafios\ListaDeItensRPG\obj\Debug\net8.0\ListaDeItensRPG.AssemblyInfo.cs
+C:\Users\gahx3\Desktop\CSharpCodes\Estudo\Desafios\ListaDeItensRPG\obj\Debug\net8.0\ListaDeItensRPG.csproj.CoreCompileInputs.cache
+C:\Users\gahx3\Desktop\CSharpCodes\Estudo\Desafios\ListaDeItensRPG\bin\Debug\net8.0\ListaDeItensRPG.exe
+C:\Users\gahx3\Desktop\CSharpCodes\Estudo\Desafios\ListaDeItensRPG\bin\Debug\net8.0\ListaDeItensRPG.deps.json
+C:\Users\gahx3\Desktop\CSharpCodes\Estudo\Desafios\ListaDeItensRPG\bin\Debug\net8.0\ListaDeItensRPG.runtimeconfig.json
+C:\Users\gahx3\Desktop\CSharpCodes\Estudo\Desafios\ListaDeItensRPG\bin\Debug\net8.0\ListaDeItensRPG.dll
+C:\Users\gahx3\Desktop\CSharpCodes\Estudo\Desafios\ListaDeItensRPG\bin\Debug\net8.0\ListaDeItensRPG.pdb
+C:\Users\gahx3\Desktop\CSharpCodes\Estudo\Desafios\ListaDeItensRPG\obj\Debug\net8.0\ListaDeItensRPG.dll
+C:\Users\gahx3\Desktop\CSharpCodes\Estudo\Desafios\ListaDeItensRPG\obj\Debug\net8.0\refint\ListaDeItensRPG.dll
+C:\Users\gahx3\Desktop\CSharpCodes\Estudo\Desafios\ListaDeItensRPG\obj\Debug\net8.0\ListaDeItensRPG.pdb
+C:\Users\gahx3\Desktop\CSharpCodes\Estudo\Desafios\ListaDeItensRPG\obj\Debug\net8.0\ListaDeItensRPG.genruntimeconfig.cache
+C:\Users\gahx3\Desktop\CSharpCodes\Estudo\Desafios\ListaDeItensRPG\obj\Debug\net8.0\ref\ListaDeItensRPG.dll
